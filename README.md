@@ -10,7 +10,6 @@ An empirical study of the **Erdős–Rényi random graph model G(n, p)**. The pr
 1. 🌐 **Emergence of the giant connected component** at `p = 1/n`
 2. 🔗 **Graph connectivity** at `p = ln(n)/n`
 
-> Course Project · CS648 · Prof. Surender Baswana · Jan'26 – Apr'26
 
 ---
 
@@ -169,7 +168,7 @@ experiment_connectivity(ns=(50, 100, 200), trials=200)
 
 - P. Erdős and A. Rényi, *On the evolution of random graphs* (1960)
 - M. Mitzenmacher and E. Upfal, *Probability and Computing*
-- Course material, CS648 (Randomized Algorithms)
+  
 
 ---
 

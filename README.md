@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-required-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-required-11557c)
-![Course](https://img.shields.io/badge/Course%20Project-CS648-green)
+
 
 An empirical study of the **Erdős–Rényi random graph model G(n, p)**. The project uses a **DFS-based connectivity algorithm** and **Monte Carlo simulation** to validate two classic phase-transition thresholds from probabilistic analysis:
 
